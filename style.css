@@ -1,0 +1,78 @@
+/* Write some CSS below */
+.img-circle {
+    height: 200px;
+    text-align: center;
+    
+}
+h1{
+    color: #080e5e;
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+h2{
+    text-align: center;
+    color: #080e5e;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+p{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+}
+li{
+    text-align: center;
+    color: #01214d;
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+    list-style: none;
+}
+ul{
+    text-align: center;
+}
+body{
+    background-color: #76f4b2;
+    text-align: center;
+    color: #01214d;
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px;
+    background-color: white;
+}
+
+.card-white{
+    border-radius: 4px;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0px 0px 10px ; 
+}
+
+.btn-blue{
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #080e5e;
+    border-radius: 20px; 
+}
+
+.btn-blue:hover{
+    background-color: #76f4b2;
+}
+
+#Introduction{
+    margin-bottom: 40px;
+}
